@@ -1,0 +1,8 @@
+# Balances
+112233,36.77
+223344,30.122
+334455,85.808
+# Bank account with highest balance
+334455
+# Frequently used bank account
+112233
